@@ -1,1 +1,1 @@
-# Blockchain development content by Garamii
+# Blockchain development content by Garami
